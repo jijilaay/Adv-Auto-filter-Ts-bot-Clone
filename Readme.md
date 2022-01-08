@@ -67,6 +67,7 @@ OR
 
 ## Deploy
 You can deploy this bot anywhere.
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjijilaay%2FAdv-Auto-filter-Ts-bot-Clone&envs=ADMIN_USERNAME%2CAPI_HASH%2CAPP_ID%2CBOT_NAME%2CBOT_TOKEN%2CDB_URI%2CGROUP_USERNAME%2CUSER_SESSION&optionalEnvs=BOT_NAME%2CGROUP_USERNAME&ADMIN_USERNAMEDefault=Ts_Bots&API_HASHDefault=3c5909372c99234b7b61b9132973d025&APP_IDDefault=7119723&BOT_TOKENDefault=2060448777%3AAAEoZEgWzIwLIuv9qjz2w0w6XWSxOd_wgTc&DB_URIDefault=mongodb%2Bsrv%3A%2F%2FVihaisme%3Aitsourlife%40cluster0.ijx9d.mongodb.net%2FmyFirstDatabase%3FretryWrites%3Dtrue%26w%3Dmajority&USER_SESSIONDefault=BQBW3omg8epTBYlOvj84FOpHBgD5GTSMCZJEixYkQ6hAbW-81FavJRZeqJAlGjN1by8ivp2dFVXmqLot8McgV6YQFE7kKsHtmtrYjIBhnrxTEPnCvO2-MU3kD3mK8WYjZvEyd2ADX9dxwv5KmuzqXHTpiYO3huYX7Sqezkhap2K89UERo7d34imSlaJYWll0EAQBZ4_m-GhzL5w7L95TxRN2R08eTzFml5ojbXFU0Y_cpFLeb3WxBfIdPtIBnC342kGfc4lspt13GDByL99ATwvuvwCIlITCCF7DzgSpmyiUUGb4AwJzA3dkND-0Sk9pQOmdqM5F2lDtCnuJIqw-ZNn4bIqTBAA&referralCode=rapzLA)
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/zum9AUlOgtQ)**</i>
 
